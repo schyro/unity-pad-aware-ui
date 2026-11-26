@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Pad Aware UI
+# Pad Aware UI
 
 **Your player picked up the gamepad. The button under the mouse never noticed.**
 
