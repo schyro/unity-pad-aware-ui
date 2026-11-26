@@ -1,0 +1,8 @@
+{
+  "name": "Schyro.PadAwareUI",
+  "rootNamespace": "Schyro.PadAwareUI",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.InputSystem"
+  ]
+}
