@@ -33,7 +33,7 @@ Unity has closed reports of this as *By Design* or *Won't Fix*. The common worka
 **1. Install.** In **Package Manager**, choose **Install package from git URL** and enter:
 
 ```text
-https://github.com/schyro/unity-pad-aware-ui.git#v0.1.0
+https://github.com/schyro/unity-pad-aware-ui.git#v0.1.1
 ```
 
 **2. Enable the Input System.** Set **Project Settings > Player > Active Input Handling** to *Input System Package (New)* or *Both*.

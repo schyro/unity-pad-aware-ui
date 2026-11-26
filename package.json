@@ -1,6 +1,6 @@
 {
   "name": "com.schyro.pad-aware-ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Pad Aware UI",
   "description": "uGUI Button, Toggle, Slider and Scrollbar variants that drop the mouse hover highlight while the gamepad is in use, so a resting cursor no longer leaves a second item looking focused.",
   "unity": "6000.3",
